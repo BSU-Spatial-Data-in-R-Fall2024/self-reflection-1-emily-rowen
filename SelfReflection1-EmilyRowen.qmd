@@ -8,26 +8,54 @@ editor: visual
 
 1.  Please tell me a little bit about your research interests and how you imagine integrating spatial data in your research.
 
+    I've been thinking about how energy-ag and water-ag conflicts are occurring in Idaho and how the community capitals framework might inform how these conflicts are more multidimensional than current approaches portray.
+
+    One way that I would like to integrate spatial data is in energy-ag conflicts there are the sites of energy developments (wind/solar) but then there isn't clear discussion on which communities around these developments are included in "stakeholder engagement" processes. In the water-ag conflict of the Eastern Snake River Plain I think it would be interesting to map out where junior/senior water rights holders are located and see if this is influencing the conflict at all.
+
 2.  How do you learn best, and what do you feel is your biggest strength as a student?
+
+    In R classes I've taken before, I love some written out directions that allow me to move at my own pace (so homeworks might be the most beneficial to me?). I'm definitely a visual learner. I also like to collaborate with other students in class on mini-challenges where the teacher shows us an example, but then we have to figure out the next example ourselves (I like talking through these with peers more than independently figuring it out).
 
 3.  If you want to, you can set a goal for this semester for something you want to work on in the context of this course (outside of the topic matter itself) – for example, using StackOverflow to get answers to analysis questions or using git to track progress on homeworks. If you choose to set this type of goal, what can you do to help support yourself in working toward that goal? How can I help you to meet this goal?
 
+    I want to understand how the GitHub pipeline works and feel confident using it to share my code with others.
+
 4.  You can, if you choose, also let me know if there is anything else you have going on this semester that you would like me to know about (e.g., field work, other courses, prepping your qualifying exam, working outside of assistantship).
+
+    Preparing proposal
 
 **This Course**
 
 5.  Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
 
+    I've taken one R course previously and used it to make visuals for poster presentations and my masters thesis. I haven't used it with spatial data before. I like the satisfaction of figuring out the puzzle of code. Recalling new functions or common code progressions is probably the biggest obstacle.
+
 6.  Describe your experience working with spatial data and GIS (either in R, or ArcGIS, or QGIS etc.). How do you tend to use spatial data (e.g., making maps, desiging field sampling, buidling stastical models)?
+
+    I've taken a course in ArcGIS and recently was challenged by Matt to try and make a map of Idaho to try and narrow my study area in QGIS. It went really well for never having used that software before! I definitely tend towards visualizations more than statistical processes.
 
 7.  How do you feel about taking this course (e.g., neutral, positive, negative) and why (e.g., aspects you are worried about, or looking forward to)?
 
+    Excited to get back into R and figure out how I might use it for my dissertation research!
+
 8.  After reviewing the syllabus, give some thought to your objectives for this course. Which parts of this course are going to be most useful to your research? What skills do you really want to focus on during the semester? Once you've given this some thought, craft 3-5 SMART objectives for you in this course. SMART objectives are **S**pecific (e.g., I want to make maps in R), **M**easurable (e.g., I want to build *3 maps displaying different elements of a location* in R), **A**chievable (e.g., I want to build 3 maps displaying different elements of a location *using ggplot*), **R**elevant (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot), and **T**ime-bound (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot *for the final project*). Try to think about your overall objectives for the course so that we can use to assess your final project. Remember, these objectives should be based in where you are now and where you'd like to be when the course ends. **If you're not sure how to answer this, schedule a meeting with me to chat about it**.
+
+    -   I would like to build at least 1 map that displays the status of water-ag conflicts in Idaho and 1 map that displays energy-ag conflict in Idaho.
+
+    -   I would like to perform some sort of statistical analysis on social and ecological elements of these conflicts (I won't know exactly which is appropriate until further into the course)
+
+    -   I would like to understand what visualizing qualitative-spatial data might mean and the challenges associated with it.
 
 9.  Given the grading 'contracts' laid out in the syllabus and your objectives above, what grade would you like to achieve in this course? How will you support yourself in achieving this grade? How can I help?
 
+    A - I will complete homeworks, ask questions about problems I encounter early and often, and keep up with current tasks.
+
 10. Are there topics on the syllabus that are particularly important for you? What is missing?
+
+    I think visualization topics will be interesting to me, but the statistical processes will be where I learn the most.
 
 **Final Thoughts**
 
 11. Is there anything else you'd like me to know about you or that you want to know about the course?
+
+Nope
